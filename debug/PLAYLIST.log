@@ -1,0 +1,10 @@
+﻿  Reading Qt configuration (C:/qt/6.2.1/msvc2019_64/bin/qmake)
+  main.cpp
+  mainwindow.cpp
+  window2.cpp
+C:\Users\Linnur\Desktop\play\PLAYLIST\SourceMain.h(205,9): warning C4101: i: неиспользованная локальная переменная (компилируется исходный файл mainwindow.cpp)
+C:\Users\Linnur\Desktop\play\PLAYLIST\SourceMain.h(307,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных (компилируется исходный файл mainwindow.cpp)
+C:\Users\Linnur\Desktop\play\PLAYLIST\mainwindow.cpp(36,61): warning C4312: приведение типов: преобразование из "int" в "char *" большего размера
+  moc_mainwindow.cpp
+  moc_window2.cpp
+  PLAYLIST.vcxproj -> C:\Users\Linnur\Desktop\play\PLAYLIST\debug\PLAYLIST.exe
